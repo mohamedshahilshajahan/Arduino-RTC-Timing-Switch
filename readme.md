@@ -5,6 +5,8 @@
 <h1>Switching RTC Modules in Arduino: Quick Code Modification Guide</h1>
 <img src="Instructions/Other modules.jpg" alt="Other RTC Modules"><br>
 
+[![Click to watch the video](Instructions/ar2.png)](https://github.com/mohamedshahilshajahan/Arduino-RTC-Timing-Switch/blob/main/Instructions/Instruction%20Video.mkv)
+
 
 <h3>When uploading the code in Arduino IDE, make sure to choose the correct board and COM port.</h3>
 <img src="Instructions/Board and Com port.jpg" alt="Select Board and Com Ports"><br>
