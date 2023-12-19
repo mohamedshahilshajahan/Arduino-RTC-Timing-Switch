@@ -6,8 +6,7 @@
 <img src="Instructions/Other modules.jpg" alt="Other RTC Modules"><br>
 
 <h1>Arduino Timing Switch Project Tutorial:<br> Watch this video for Proper Instructions on Building Your Automated AC Appliance Controller!</h1>
-![Watch the video](https://www.youtube.com/watch?v=bmlihK6F6x4)<br>
-
+<h3><a href="https://www.youtube.com/watch?v=bmlihK6F6x4">Explore the tutorial by clicking on the image.</a></h3>
 <a href="https://www.youtube.com/watch?v=bmlihK6F6x4" target="_blank">
   <img src="https://raw.githubusercontent.com/mohamedshahilshajahan/Arduino-RTC-Timing-Switch/main/Instructions/youtube%20video.png" alt="Custom Thumbnail" width="750" height="380">
 </a>
