@@ -8,7 +8,7 @@
 <h1>Arduino Timing Switch Project Tutorial:<br> Watch this video for Proper Instructions on Building Your Automated AC Appliance Controller!</h1>
 <h3><a href="https://www.youtube.com/watch?v=bmlihK6F6x4">Explore the tutorial by clicking on the image.</a></h3>
 <a href="https://www.youtube.com/watch?v=bmlihK6F6x4" target="_blank">
-  <img src="https://raw.githubusercontent.com/mohamedshahilshajahan/Arduino-RTC-Timing-Switch/main/Instructions/youtube%20video.png" alt="Custom Thumbnail" width="750" height="380">
+  <img src="https://raw.githubusercontent.com/mohamedshahilshajahan/Arduino-RTC-Timing-Switch/main/Instructions/youtube%20video.png" alt="Custom Thumbnail" width="500" height="280">
 </a>
 
 <h3>When uploading the code in Arduino IDE, make sure to choose the correct board and COM port.</h3>
