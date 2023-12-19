@@ -5,6 +5,10 @@
 <h1>Switching RTC Modules in Arduino: Quick Code Modification Guide</h1>
 <img src="Instructions/Other modules.jpg" alt="Other RTC Modules"><br>
 
+
+<h3>When uploading the code in Arduino IDE, make sure to choose the correct board and COM port.</h3>
+<img src="Instructions/Board and Com port.jpg" alt="Select Board and Com Ports"><br>
+
 <h1>About me:</h1>
 <h1 align="center">Hi 👋, I'm Mohamed Shahil</h1>
 
