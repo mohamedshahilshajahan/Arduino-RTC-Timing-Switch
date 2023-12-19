@@ -6,7 +6,6 @@
 <img src="Instructions/Other modules.jpg" alt="Other RTC Modules"><br>
 
 <h1>Arduino Timing Switch Project Tutorial:<br> Watch this video for Proper Instructions on Building Your Automated AC Appliance Controller!</h1>
-[![Click to watch the video](Instructions/ar2.png)](https://github.com/mohamedshahilshajahan/Arduino-RTC-Timing-Switch/blob/main/Instructions/Instruction%20Video.mkv)
 
 
 <h3>When uploading the code in Arduino IDE, make sure to choose the correct board and COM port.</h3>
