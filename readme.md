@@ -5,7 +5,7 @@
 <h1>Switching RTC Modules in Arduino: Quick Code Modification Guide</h1>
 <img src="Instructions/Other modules.jpg" alt="Other RTC Modules" style="max-width: 100%; height: auto;"><br>
 
-<h3>Arduino Timing Switch Project Tutorial:<br> Watch this video for Proper Instructions on Building Your Automated AC Appliance Controller!</h3>
+<h2>Arduino Timing Switch Project Tutorial:<br> Watch this video for Proper Instructions on Building Your Automated AC Appliance Controller!</h2>
 <h3><a href="https://www.youtube.com/watch?v=bmlihK6F6x4">Explore the tutorial by clicking on the image.</a></h3>
 <a href="https://www.youtube.com/watch?v=bmlihK6F6x4" target="_blank">
   <img src="https://raw.githubusercontent.com/mohamedshahilshajahan/Arduino-RTC-Timing-Switch/main/Instructions/youtube%20video.png" alt="Youtube Video" style="max-width: 100%; height: auto;" />
