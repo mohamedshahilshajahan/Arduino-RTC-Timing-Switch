@@ -1,4 +1,5 @@
 <h1>Arduino RTC Timing Switch: Automated AC Appliance Control with DS3231 and Relay Module</h1>
+<img src="Instructions/Project Thumbnail.jpg" alt="Project Thumbnail" style="max-width: 100%; height: auto;">
 <h3>This project is compatible with various Arduino boards, and the connections are similar. I'm using Arduino Uno, but I've included connection diagrams for both Arduino Uno and Nano. Most Arduino boards share similar pin configurations refer to the provided connection diagrams.</h3>
 <img src="Arduino Uno Connection Diagram.png" alt="Arduino Uno Connection Diagram" style="max-width: 100%; height: auto;">
 <img src="Arduino Nano Connection Diagram.png" alt="Arduino Nano Connection Diagram" style="max-width: 100%; height: auto;"><br>
