@@ -1,10 +1,10 @@
 <h1>Arduino RTC Timing Switch: Automated AC Appliance Control with DS3231 and Relay Module</h1>
-<img src="Instructions/Project Thumbnail.jpg" alt="Project Thumbnail" style="max-width: 100%; height: auto;">
+<img src="https://i.postimg.cc/mgq8nCWs/Project-Thumbnail.jpg" alt="Project Thumbnail" style="max-width: 100%; height: auto;">
 <h3>This project is compatible with various Arduino boards, and the connections are similar. I'm using Arduino Uno, but I've included connection diagrams for both Arduino Uno and Nano. Most Arduino boards share similar pin configurations refer to the provided connection diagrams.</h3>
-<img src="Arduino Uno Connection Diagram.png" alt="Arduino Uno Connection Diagram" style="max-width: 100%; height: auto;">
-<img src="Arduino Nano Connection Diagram.png" alt="Arduino Nano Connection Diagram" style="max-width: 100%; height: auto;"><br>
+<img src="https://i.postimg.cc/k4W1K4Zd/Arduino-Uno-Connection-Diagram.png" alt="Arduino Uno Connection Diagram" style="max-width: 100%; height: auto;">
+<img src="https://i.postimg.cc/RhRgpY4s/Arduino-Nano-Connection-Diagram.png" alt="Arduino Nano Connection Diagram" style="max-width: 100%; height: auto;"><br>
 <h1>Switching RTC Modules in Arduino: Quick Code Modification Guide</h1>
-<img src="Instructions/Other modules.jpg" alt="Other RTC Modules" style="max-width: 100%; height: auto;"><br>
+<img src="https://i.postimg.cc/FsrWkhV2/Other-modules.jpg" alt="Other RTC Modules" style="max-width: 100%; height: auto;"><br>
 
 <h1>Arduino Timing Switch Project Tutorial:<br> Watch this video for Proper Instructions on Building Your Automated AC Appliance Controller!</h1>
 <h3><a href="https://www.youtube.com/watch?v=bmlihK6F6x4">Explore the tutorial by clicking on the image.</a></h3>
@@ -13,7 +13,7 @@
 </a>
 
 <h3>When uploading the code in Arduino IDE, make sure to choose the correct board and COM port.</h3>
-<img src="Instructions/Board and Com port.jpg" alt="Select Board and Com Ports" style="max-width: 100%; height: auto;"><br>
+<img src="https://i.postimg.cc/W35YpKqB/Board-and-Com-port.jpg" alt="Select Board and Com Ports" style="max-width: 100%; height: auto;"><br>
 
 <h2>About me:</h2>
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DC00&center=true&vCenter=true&random=false&width=550&height=32&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Shahil" alt="Typing SVG" /></h1>
