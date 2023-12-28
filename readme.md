@@ -7,9 +7,9 @@
 <img src="https://i.postimg.cc/FsrWkhV2/Other-modules.jpg" alt="Other RTC Modules" style="max-width: 100%; height: auto;"><br>
 
 <h1>Arduino Timing Switch Project Tutorial:<br> Watch this video for Proper Instructions on Building Your Automated AC Appliance Controller!</h1>
-<h3><a href="https://www.youtube.com/watch?v=bmlihK6F6x4">Explore the tutorial by clicking on the image.</a></h3>
-<a href="https://www.youtube.com/watch?v=bmlihK6F6x4" target="_blank">
-  <img src="https://raw.githubusercontent.com/mohamedshahilshajahan/Arduino-RTC-Timing-Switch/main/Instructions/youtube%20video.png" alt="Youtube Video" style="max-width: 100%; height: auto;" />
+<h3><a href="https://www.youtube.com/watch?v=w8OTqcr_Fnw">Explore the tutorial by clicking on the image.</a></h3>
+<a href="https://www.youtube.com/watch?v=w8OTqcr_Fnw" target="_blank">
+  <img src="https://i.imgur.com/IptXKkw.jpg" alt="Youtube Video" style="max-width: 100%; height: auto;" />
 </a>
 
 <h3>When uploading the code in Arduino IDE, make sure to choose the correct board and COM port.</h3>
