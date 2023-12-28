@@ -3,10 +3,10 @@
 <h3>This project is compatible with various Arduino boards, and the connections are similar. I'm using Arduino Uno, but I've included connection diagrams for both Arduino Uno and Nano. Most Arduino boards share similar pin configurations refer to the provided connection diagrams.</h3>
 <img src="https://i.postimg.cc/k4W1K4Zd/Arduino-Uno-Connection-Diagram.png" alt="Arduino Uno Connection Diagram" style="max-width: 100%; height: auto;">
 <img src="https://i.postimg.cc/RhRgpY4s/Arduino-Nano-Connection-Diagram.png" alt="Arduino Nano Connection Diagram" style="max-width: 100%; height: auto;"><br>
-<h1>Switching RTC Modules in Arduino: Quick Code Modification Guide</h1>
+<h1>Switching RTC Modules in Arduino:</h1>
 <img src="https://i.postimg.cc/FsrWkhV2/Other-modules.jpg" alt="Other RTC Modules" style="max-width: 100%; height: auto;"><br>
 
-<h1>Arduino Timing Switch Project Tutorial:<br> Watch this video for Proper Instructions on Building Your Automated AC Appliance Controller!</h1>
+<h1>Watch this video for Proper Instructions!</h1>
 <h3><a href="https://www.youtube.com/watch?v=w8OTqcr_Fnw">Explore the tutorial by clicking on the image.</a></h3>
 <a href="https://www.youtube.com/watch?v=w8OTqcr_Fnw" target="_blank">
   <img src="https://i.imgur.com/IptXKkw.jpg" alt="Youtube Video" style="max-width: 100%; height: auto;" />
