@@ -6,8 +6,7 @@
 <h1>Switching RTC Modules in Arduino:</h1>
 <img src="https://i.postimg.cc/FsrWkhV2/Other-modules.jpg" alt="Other RTC Modules" style="max-width: 100%; height: auto;"><br>
 
-<h1>Watch this video for Proper Instructions!</h1>
-<h3><a href="https://www.youtube.com/watch?v=w8OTqcr_Fnw">Explore the tutorial by clicking on the image.</a></h3>
+<h1><a href="https://www.youtube.com/watch?v=w8OTqcr_Fnw">Watch this video for Proper Instructions by clicking on the image.</a></h1>
 <a href="https://www.youtube.com/watch?v=w8OTqcr_Fnw" target="_blank">
   <img src="https://i.imgur.com/IptXKkw.jpg" alt="Youtube Video" style="max-width: 100%; height: auto;" />
 </a>
