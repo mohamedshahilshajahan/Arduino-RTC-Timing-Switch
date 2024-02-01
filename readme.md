@@ -4,7 +4,19 @@
 <img src="https://i.postimg.cc/k4W1K4Zd/Arduino-Uno-Connection-Diagram.png" alt="Arduino Uno Connection Diagram" style="max-width: 100%; height: auto;">
 <img src="https://i.postimg.cc/RhRgpY4s/Arduino-Nano-Connection-Diagram.png" alt="Arduino Nano Connection Diagram" style="max-width: 100%; height: auto;"><br>
 <h1>Switching RTC Modules in Arduino:</h1>
-<img src="https://i.postimg.cc/FsrWkhV2/Other-modules.jpg" alt="Other RTC Modules" style="max-width: 100%; height: auto;"><br>
+<img src="https://i.postimg.cc/FsrWkhV2/Other-modules.jpg" alt="Other RTC Modules" style="max-width: 100%; height: auto;">
+<img src="https://i.postimg.cc/KcVWrKJD/Difference.png" alt="Difference Between Why I am using these Codes for different module." style="max-width: 100%; height: auto;">
+<h3>DS3231 Code (rtc.lostPower()):
+
+The DS3231 RTC module has a built-in feature to detect power loss, and this is checked using rtc.lostPower(). If power is lost, it indicates that the RTC might have been without power and could have lost its timekeeping information. In such cases, it adjusts the time using the compilation timestamp.
+DS1307 Code (!rtc.isrunning()):
+
+The DS1307 RTC module lacks a direct method to check for power loss. Instead, it uses rtc.isrunning() to determine if the RTC is actively keeping time. If it's not running, it suggests that the RTC may not have power or may have lost its timekeeping ability. In this case, it adjusts the time using the compilation timestamp.
+If you were to use either code for both RTC modules, there could be issues. For example:
+
+Using rtc.lostPower() with DS1307 might not work correctly because it doesn't have the lostPower feature.
+
+Using !rtc.isrunning() with DS3231 might not effectively check for power loss, and you may miss cases where the DS3231 has lost power.</h3><br>
 
 <h1><a href="https://www.youtube.com/watch?v=w8OTqcr_Fnw">Watch this video for Proper Instructions by clicking on the image.</a></h1>
 <a href="https://www.youtube.com/watch?v=w8OTqcr_Fnw" target="_blank">
