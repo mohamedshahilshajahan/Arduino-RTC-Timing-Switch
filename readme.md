@@ -18,7 +18,7 @@ If you were to use either code for both RTC modules, there could be issues.</h4>
 
 <h1><a href="https://www.youtube.com/watch?v=w8OTqcr_Fnw">Watch this video for Proper Instructions by clicking on the image.</a></h1>
 <a href="https://www.youtube.com/watch?v=w8OTqcr_Fnw" target="_blank">
-  <img src="https://i.imgur.com/IptXKkw.jpg" alt="Youtube Video" style="max-width: 100%; height: auto;" />
+  <img src="https://i.postimg.cc/QCXYjqGt/Youtube-Thumbnail.jpg" alt="Youtube Video" style="max-width: 100%; height: auto;" />
 </a>
 
 <h3>When uploading the code in Arduino IDE, make sure to choose the correct board and COM port.</h3>
